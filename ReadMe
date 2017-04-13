@@ -1,0 +1,1 @@
+This is a classifier implemented with PCA and softmax training and testing with MNIST dataset, where the start code is learned from UFLDL course.  
